@@ -1,4 +1,4 @@
-# Mallela Rahul Kaushik
+# Rahul Kaushik Mallela
 
 ![Rahul's Headshot](https://github.com/Ra-svg/UMBC-DATA606-Capstone/blob/main/docs/Rahul_profile_pic.jpeg)
 
@@ -61,4 +61,4 @@ _May/2023_
 - Certified in Python
 - Certified in SQL
 - Certified in AWS
-
+- Certified in Tableau
