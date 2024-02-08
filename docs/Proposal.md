@@ -55,10 +55,13 @@ The Size of the Dataset is 4801 rows with 17 distinct columns.
 - Flask/Django for Backend Development.
 
 - MODELS: - 
-         - Linear Regression.
-         - Random Forest.
-         - Gradient Boosting.
-         - k -nearest Neighbors
+  - Linear Regression.
+  
+  - Random Forest.
+  
+  - Gradient Boosting.
+  
+  - k nearest Neighbors
 
 ## Proposed Outcome:
 
