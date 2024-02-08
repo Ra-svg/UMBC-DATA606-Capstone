@@ -8,7 +8,9 @@ Date: 02/07/2024
 ## Overview:
 
 
-The dataset comprises detailed listings of 4,801 properties for sale in New York, covering a range of condos, houses, and townhouses across 17 distinct columns of information. It includes data on the listing broker, property type, price, number of bedrooms and bathrooms, square footage, and precise geographic locations from Manhattan to Staten Island. Prices vary widely, with listings such as a condo priced at $195,000,000, showcasing the diversity of New York's real estate market. Geographic details extend to latitude and longitude, offering in-depth insights for market analysis. This extensive dataset serves as a valuable tool for buyers, investors, and analysts, providing a comprehensive view of the housing landscape in New York.
+The dataset comprises detailed listings of 4,801 properties for sale in New York, covering a range of condos, houses, and townhouses across 17 distinct columns of information. It includes data on the listing broker, property type, price, number of bedrooms and bathrooms, square footage, and precise geographic locations from Manhattan to Staten Island. Prices vary widely, with listings such as a condo priced at $195,000,000, showcasing the diversity of New York's real estate market.
+
+Geographic details extend to latitude and longitude, offering in-depth insights for market analysis. This extensive dataset serves as a valuable tool for buyers, investors, and analysts, providing a comprehensive view of the housing landscape in New York.
 
 ## Dataset:
 
