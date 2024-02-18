@@ -1,9 +1,7 @@
 
-## Project Title: NEW YORK HOUSING USING PREDICTIVE ANALYSIS
+## Project Title: NEW YORK HOUSING PRICE PREDICTION
 
 Name: Rahul Kaushik Mallela
-    
-Date: 02/07/2024
 
 ## Overview:
 
@@ -52,8 +50,6 @@ The Size of the Dataset is 4801 rows with 17 distinct columns.
 ## Technologies and Models:
 - Python for overall programming.
 
-- SQLite for Database Management.
-
 - Flask/Django for Backend Development.
 
 - MODELS: - 
@@ -63,9 +59,8 @@ The Size of the Dataset is 4801 rows with 17 distinct columns.
   
   - Gradient Boosting.
   
-  - k nearest Neighbors
 
 ## Proposed Outcome:
 
-Leveraging this dataset,I would like to build models and conduct an extensive Exploratory Data Analysis (EDA), the following steps outline how I can proceed to predict property prices, and possibly, other features like the likelihood of a property being sold quickly based on its characteristics and location.
+Leveraging this dataset,I would like to build models and conduct an extensive Exploratory Data Analysis (EDA), to predict property prices, and use, other features like its characteristics and location.
 
