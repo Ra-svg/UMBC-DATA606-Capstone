@@ -1,7 +1,7 @@
 
 ## Project Title: NEW YORK HOUSING PRICE PREDICTION
 
-Author: -
+Author : -
 
 Name: Rahul Kaushik Mallela
 
