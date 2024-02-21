@@ -3,6 +3,10 @@
 
 Name: Rahul Kaushik Mallela
 
+LinkedIn Profile: https://www.linkedin.com/in/rahulkaushikm/
+
+GitHub Profile: https://github.com/Ra-svg/Rahul
+
 ## Overview:
 
 
