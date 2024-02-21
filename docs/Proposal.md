@@ -12,15 +12,15 @@ Geographic details extend to latitude and longitude, offering in-depth insights 
 
 ## Dataset:
 
-The Size of the Dataset is 4801 rows with 17 distinct columns.
+Dataset Size:  1.33 MB, 4801 rows with 17 distinct columns.
+
 
 #### Data Source: https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 
 ## Reasearch Questions:
 
--
--
--
+-  What factors most significantly impact house prices in New York?
+-  Can we accurately predict the price of a house based on its characteristics/features? 
 
 ## Variables in dataset:
 
@@ -58,5 +58,5 @@ The Size of the Dataset is 4801 rows with 17 distinct columns.
 
 Leveraging this dataset,I would like to build models and conduct an extensive Exploratory Data Analysis (EDA), to predict property prices, and use, other features like its characteristics and location.
 
-Target Column :- Price
+Target Column :- Price Column (Analyze the distribution of house prices to understand market trends.)
 
