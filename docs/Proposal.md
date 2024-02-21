@@ -16,6 +16,12 @@ The Size of the Dataset is 4801 rows with 17 distinct columns.
 
 #### Data Source: https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 
+## Reasearch Questions:
+
+-
+-
+-
+
 ## Variables in dataset:
 
 
@@ -46,21 +52,11 @@ The Size of the Dataset is 4801 rows with 17 distinct columns.
 •	 FORMATTED_ADDRESS: A full address that may include the building name or number, street, city, state, and ZIP code.
 
 •	 LATITUDE, LONGITUDE: Geographic coordinates of the property.
-
-## Technologies and Models:
-- Python for overall programming.
-
-- Flask/Django for Backend Development.
-
-- MODELS: - 
-  - Linear Regression.
-  
-  - Random Forest.
-  
-  - Gradient Boosting.
   
 
 ## Proposed Outcome:
 
 Leveraging this dataset,I would like to build models and conduct an extensive Exploratory Data Analysis (EDA), to predict property prices, and use, other features like its characteristics and location.
+
+Target Column :- Price
 
