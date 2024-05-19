@@ -9,7 +9,7 @@
    - LinkedIn Profile: https://www.linkedin.com/in/rahulkaushikm/
    - GitHub Profile: https://github.com/Ra-svg
    - Youtube Link: https://youtu.be/Xxf0OZVW4F0
-   - Presentation link: 
+   - Presentation link: https://github.com/Ra-svg/UMBC-DATA606-Capstone/blob/main/docs/New_York_Housing_Price_Prediction_Final.pptx
 
 # Background:
 
