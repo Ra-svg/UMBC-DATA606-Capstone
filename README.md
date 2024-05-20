@@ -1,1 +1,1 @@
-# UMBC-DATA606-Capstone
+# New York Housing Price Prediction
