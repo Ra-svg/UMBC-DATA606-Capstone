@@ -1,6 +1,6 @@
 # New York Housing Price Prediction
 
--The dataset contains 4801 entries with 17 features, sourced from Kaggle, focusing on key aspects like price, bedrooms, bathrooms, square footage, and detailed location information. These features are essential for accurately predicting housing prices in New York.
+- The dataset contains 4801 entries with 17 features, sourced from Kaggle, focusing on key aspects like price, bedrooms, bathrooms, square footage, and detailed location information. These features are essential for accurately predicting housing prices in New York.
 
 # Web App
 
