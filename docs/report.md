@@ -2,7 +2,7 @@
 # 1. New York Housing Price Prediction
 
 - **Project Title:** New York Housing Price Prediction
-- **Prepared for:** University Of Maryland, Baltimore County(UMBC), **Under:** Professor Dr. Chaojie (Jay) Wang
+- **Prepared for:** University Of Maryland, Baltimore County(UMBC), **Under:** Professor Dr. Chaojie (Jay) Wang SPRING 2024
 - Author : -
 
    - Name: Rahul Kaushik Mallela
